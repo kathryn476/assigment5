@@ -22,3 +22,13 @@
     color: hsla(0, 0%, 0%, 0.952);
 
 }
+.foot{
+
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(52, 48, 59);
+    color: white;
+    text-align: center;
+  }
