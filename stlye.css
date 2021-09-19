@@ -1,0 +1,24 @@
+.body{
+        background-image: url("./Img.html/bkgnd.png");
+        background-repeat: no-repeat;
+        background-position: left top ;
+            
+                
+}
+#header{
+    color: rgb(40, 53, 94);  
+}
+.content{
+    color: rgba(25, 39, 236, 0.932); opacity: .4;
+}
+.copy{
+    color: darkblue;
+}
+.photo{
+    min: height -10px;;
+    width: 50%;
+}
+.container{
+    color: hsla(0, 0%, 0%, 0.952);
+
+}
